@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:18.04
 
 LABEL maintainer="Ben Mason <locutus@the-collective.net>"
 ARG DEBIAN_FRONTEND=noninteractive
